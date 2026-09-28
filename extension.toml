@@ -1,0 +1,11 @@
+id = "bsn"
+name = "BSN"
+description = "Bevy Scene Notation (BSN) support."
+version = "0.0.1"
+schema_version = 1
+authors = ["ada <ada@cubething.dev>"]
+repository = "https://github.com/cubething-qproj/zed-bsn"
+
+[grammars.bsn]
+repository = "https://github.com/cubething-qproj/tree-sitter-bsn"
+rev = "3879ee46fa8129dbe1826d21291bd31a3e79557d"
